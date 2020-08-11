@@ -4,8 +4,9 @@ Imagine being invisible? Imagine no more! This Invisibility cloak costume perfec
 
 
 ## Dependencies
-Numpy, OpenCV libraries.
+libraries: Numpy, OpenCV, time.
 
 
 ## Note:
-USE RED CLOTH FOR THE PURPOSE OF TESTING AS THE INITIAL HSI HAS BEEN SET TO IT.
+USE RED CLOTH FOR THE PURPOSE OF TESTING AS THE INITIAL HSI HAS BEEN SET TO IT. You can change the values as per your requirement. The color of the cloth should be solid.
+
